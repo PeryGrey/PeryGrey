@@ -1,4 +1,4 @@
-# **Hola!! 🙋‍♂️**
+# **🙋‍♂️ Hola!!**
 
 My name is Darani and I'm a Computer Engineering student from Singapore.
 
