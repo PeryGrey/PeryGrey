@@ -10,9 +10,9 @@ My name is Darani and I'm a Computer Engineering student from Singapore.
 
 🥰 Interests:
 - Web development
-- Web3, cryptocurrency and NFTs
-- Football and gymming
-- Playing the guitar and ukelele
+- Web3, Cryptocurrency and NFTs
+- Football and Gymming
+- Playing the Guitar and Ukulele
 
 ☎️ Hit me up at [tdaranidarran@gmail.com](mailto:tdaranidarran@gmail.com) or https://www.linkedin.com/in/tdaranidarran/
 
