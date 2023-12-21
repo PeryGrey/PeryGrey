@@ -1,18 +1,6 @@
 # **🙋‍♂️ Hola!!**
 
-My name is Darani and I'm a Computer Engineering student from Singapore.
-
-💼 Work Experience:
-
-- **Front-End Developer for DSTA BrainHack 2022** - UI/UX development and Front-End Development on IPFit, a exercise posture correcting app. [Remote. Summer 2022]
-- **Front-End Web Developer Intern at NextWeb Technologies** - UI/UX development and Front-End Development on the CRM development team. [Remote. Winter 2021]
-- **Lieutenant at Republic of Singapore Air Force(RSAF)** - Software Testing, Data Collection and Product Design for a new capability for the RSAF
-
-🥰 Interests:
-- Web development
-- Web3, Cryptocurrency and NFTs
-- Football and Gymming
-- Playing the Guitar and Ukulele
+I'm Darani, a Software Engineer from Singapore.
 
 ☎️ Hit me up at [tdaranidarran@gmail.com](mailto:tdaranidarran@gmail.com) or https://www.linkedin.com/in/tdaranidarran/
 
